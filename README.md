@@ -86,10 +86,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/crystal20020123/crystal20020123/output/snake.svg" alt="Snake animation" />
-
-###
