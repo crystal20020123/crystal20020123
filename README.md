@@ -20,6 +20,12 @@
             <br>Python
         </a>
     </td>
+        <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+            <br>PHP
+        </a>
+    </td>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/flask-tutorial/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
@@ -60,12 +66,6 @@
         <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
             <br>ChatGPT
-        </a>
-    </td>
-    <td align="center" width="105">
-        <a href="https://www.w3schools.com/gen_ai/index.php">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
-            <br>Generative AI
         </a>
     </td>
   </tr>
